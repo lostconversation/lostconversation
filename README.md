@@ -1,4 +1,4 @@
-[![Lostconversation.com](https://www.lostconversation.com/lost_home/0.jpg "lostconversation.com")](https://www.lostconversation.com)
+[![Lostconversation.com](https://www.lostconversation.com/lost_home/0.jpg "lostconversation.com")](https://www.lostconversation.com){:target="_blank"}
 
 <a href="https://www.lostconversation.com" target="_blank"><img src="https://www.lostconversation.com/lost_home/0.jpg"></a>
 
