@@ -7,7 +7,7 @@ I use a wide set of skills and technologies for creating video, images, web, int
 And here below a list of my interactive projects:
 
 
-### 09. // Interactive Landscape
+### 10. // Interactive Landscape
 [![Landscape](https://www.lostconversation.com/lost_home/landscape.jpg)](https://www.lostconversation.com/interactive "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
@@ -19,7 +19,7 @@ Coded in Three.js, HTML5 and CSS. [Check it live](https://www.lostconversation.c
 
 <br/>
 
-### 08. // Mandala
+### 09. // Mandala
 [![Mandala](https://www.lostconversation.com/wp-content/uploads/2018/12/Mandala_web_3.png)](https://www.lostconversation.com/mandala "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
@@ -34,7 +34,7 @@ Connecting mathematics, social sciences and consciousness studies, this game let
 
 <br/>
 
-### 07. // Mosaico Stellare
+### 08. // Mosaico Stellare
 [![Mosaico](https://www.lostconversation.com/wp-content/uploads/2018/01/Cassini_Cover.jpg)](https://worthknowing.org/mosaico "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
@@ -45,7 +45,7 @@ It also features a colorful stop-motion like animation. [Check it live](https://
 
 <br/>
 
-### 06. // Finding Knowing Delight
+### 07. // Finding Knowing Delight
 [![Finding Knowing Delight](https://www.lostconversation.com/wp-content/uploads/2018/01/sarco.jpg)](https://lostconversation.com/web/sarco "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
@@ -56,7 +56,7 @@ The full project consists of: album cover, animated trailer, and interactive web
 
 <br/>
 
-### 05. // Graphic Man
+### 06. // Graphic Man
 [![Graphic Man](https://www.lostconversation.com/wp-content/uploads/2018/12/Builder_Frame_01.jpg)](https://lostconversation.com/web/graphicman "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
@@ -68,6 +68,20 @@ This builder can be applied to any 3d model. [Check it live](https://lostconvers
 
 <br/>
 
+
+### 05. // Unfolding the planet
+[![Hi Knowledge](https://www.lostconversation.com/wp-content/uploads/2015/10/Unfolding_17.jpg)](https://unfoldingtheplanet.tumblr.com/ "'cmd+click' me")
+
+[![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
+[![](https://img.shields.io/badge/-After_Effects-informational?style=flat&logo=none&logoColor=black&color=ff94f6)](#)
+[![](https://img.shields.io/badge/-Cinema_4d-informational?style=flat&logo=none&logoColor=black&color=938cc7)](#)
+
+A new look at the World, Cartography and Map Projections.
+<br>[- Tumblr blog](https://unfoldingtheplanet.tumblr.com)
+<br>[- Interactive Globe](https://www.lostconversation.com/web/world/)
+
+<br/>
+
 ### 04. // Hi Knowledge
 [![Hi Knowledge](https://www.lostconversation.com/wp-content/uploads/2017/11/Hi-k_B.jpg)](https://hi-knowledge.org/invasion-biology "'cmd+click' me")
 
@@ -76,6 +90,9 @@ This builder can be applied to any 3d model. [Check it live](https://lostconvers
 
 Hi-Knowledge is a web portal dedicated to scientific data visualisation.
 The idea is to offer an interactive navigation between several “nodes” of information, visualizing hierarchies and data in an engaging and interactive way. [Check it live](https://hi-knowledge.org/invasion-biology)
+
+Other visualizations [here](https://hi-knowledge.org/#visualisation-tools)
+
 
 <br/>
 
