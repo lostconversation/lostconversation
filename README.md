@@ -2,9 +2,22 @@
 
 I use a wide set of skills and technologies for creating video, images, web, interactive experiences. I create worlds, either with academic-proof content or consciousness-based artworks.
 
-[LOSTCONVERSATION.COM](https://www.lostconversation.com) is my portfolio as Art Director / Motion Designer 
+## [LOSTCONVERSATION.COM](https://www.lostconversation.com) is my portfolio as Art Director / Motion Designer <br>
 
-And here below a list of my interactive projects:
+* Creative & Art Direction
+* Branding
+* Modular Design Systems
+* Motion Graphics
+* Information Design
+* Web Design / Creative Coding
+* Interactive Experiences
+* NFTs
+* Metaverse-ready 2d/3d Assets
+* Diamond Hands <br> <br>
+
+
+## <br>Interactive projects: 
+<br>
 
 
 ### 10. // Interactive Landscape
