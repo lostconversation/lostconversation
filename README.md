@@ -16,6 +16,19 @@ I use a wide set of skills and technologies for creating video, images, web, int
 * Diamond Hands <br> <br>
 
 
+## <br>Motion + information design: 
+<br>
+
+
+https://user-images.githubusercontent.com/24303748/221369641-efdb5972-be0e-44da-a71b-f2904b618a55.mp4 
+
+<br>[![](https://img.shields.io/badge/-After_Effects-informational?style=flat&logo=none&logoColor=black&color=ff94f6)](#)
+
+A visual dashboard comes to life with animation. Patterns and highlights are revealed thanks to motion graphics.
+
+
+
+
 ## <br>Interactive projects: 
 <br>
 
