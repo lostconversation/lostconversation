@@ -9,6 +9,7 @@ I use a wide set of skills and technologies for creating video, images, web, int
 * Modular Design Systems
 * Motion Graphics
 * Information Design
+* UI / UX
 * Web Design / Creative Coding
 * Interactive Experiences
 * NFTs
