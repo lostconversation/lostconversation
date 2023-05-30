@@ -23,7 +23,7 @@ I use a wide set of skills and technologies for creating video, images, web, int
 
 https://user-images.githubusercontent.com/24303748/221369641-efdb5972-be0e-44da-a71b-f2904b618a55.mp4 
 
-<br>[![](https://img.shields.io/badge/-After_Effects-informational?style=flat&logo=none&logoColor=black&color=ff94f6)](#)
+[![](https://img.shields.io/badge/-After_Effects-informational?style=flat&logo=none&logoColor=black&color=ff94f6)](#)
 
 A visual dashboard comes to life with animation. Patterns and highlights are revealed thanks to motion graphics.
 
@@ -31,7 +31,7 @@ A visual dashboard comes to life with animation. Patterns and highlights are rev
 
 [![Lostconversation.com](https://www.lostconversation.com/lost_home/info.jpg "UI design")](#)
 
-<br>[![](https://img.shields.io/badge/-Illustrator-informational?style=flat&logo=none&logoColor=black&color=fff994)](#)
+[![](https://img.shields.io/badge/-Illustrator-informational?style=flat&logo=none&logoColor=black&color=fff994)](#)
 
 Collection of UI design screens and information design charts.
 
