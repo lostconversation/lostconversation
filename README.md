@@ -1,3 +1,22 @@
+## Vibe Coding with Solana<br>
+
+... coming soon ...
+## <br>
+
+
+
+## Vibe Coding with The Graph<br>
+
+[Punks Inspector](https://github.com/lostconversation/subgraph-punks) - Shows the legendary NFTs ordered per price and times traded<br>
+  <img width="50%" alt="Punks Inspector" src="https://github.com/user-attachments/assets/16ac20bc-0494-490b-95b5-e16266a968cb" />
+<br><br><br>
+[Subgraph Playground](https://github.com/lostconversation/subgraph-playground) - Explores Subgraphs, data formatting and metadata<br>
+  <img width="50%" alt="Subgraph Playground" src="https://github.com/user-attachments/assets/c8b5d5a4-2a18-4f33-b156-f4e25c1f77d9" />
+
+## <br>
+## <br>
+## <br>
+
 [![Lostconversation.com](https://www.lostconversation.com/lost_home/0.jpg "'cmd+click' me")](https://www.lostconversation.com)
 
 I use a wide set of skills and technologies for creating video, images, web, interactive experiences. I create worlds, either with academic-proof content or consciousness-based artworks.
