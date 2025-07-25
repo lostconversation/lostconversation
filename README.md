@@ -1,11 +1,16 @@
-## Vibe Coding with Solana<br>
-
-... coming soon ...
-## <br>
+## Vibe Coding with Solana <img width="30" alt="github_Solana_logo" src="https://github.com/user-attachments/assets/b0f33c44-774e-490c-bde8-8c5ac8ccc353" /><br>
 
 
+[Rock Paper Scissors](https://github.com/lostconversation/rock_paper_scissors-solana) - A great use case for onchain fun<br>
+<img width="100%" alt="Rock Paper Scissors" src="https://github.com/user-attachments/assets/a1861d30-6d62-48ae-939b-fe537934c50b" />
 
-## Vibe Coding with The Graph<br>
+<br><br>
+... more coming soon ...
+<br>
+<br>
+<br>
+
+## Vibe Coding with The Graph <img width="30" alt="github_The_Graph_logo" src="https://github.com/user-attachments/assets/7d08f916-f87d-41fc-ba7b-a40ca9696f3f" /><br>
 
 [Punks Inspector](https://github.com/lostconversation/subgraph-punks) - Shows the legendary NFTs ordered per price and times traded<br>
   <img width="50%" alt="Punks Inspector" src="https://github.com/user-attachments/assets/16ac20bc-0494-490b-95b5-e16266a968cb" />
