@@ -5,7 +5,7 @@
 
 
 <br><br>
-[Rock Paper Scissors](https://github.com/lostconversation/rock_paper_scissors-solana) - A great use case for onchain fun<br>
+[Rock Paper Scissors](https://github.com/lostconversation/sol-ropasci) - A great use case for onchain fun<br>
 <img width="100%" alt="Rock Paper Scissors" src="https://github.com/user-attachments/assets/a1861d30-6d62-48ae-939b-fe537934c50b" />
 
 <br><br>
