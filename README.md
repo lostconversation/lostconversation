@@ -1,17 +1,18 @@
 ## Vibe Coding with Solana <img width="30" alt="github_Solana_logo" src="https://github.com/user-attachments/assets/b0f33c44-774e-490c-bde8-8c5ac8ccc353" /><br>
 
+[NFT Viewer on Solana](https://github.com/lostconversation/sol-NFT-viewer) - Drop your wallet address and enjoy all collectibles<br>
+<img width="100%" alt="NFT Viewer on Solana" src="https://github.com/user-attachments/assets/45876328-3cd4-4a7f-8a19-0c3b9c7a7ce1" />
+<br><br><br><br>
 [NFT Marketplace on Solana](https://github.com/solana-turbin3/Q3_25_Builder_MarcoBagni/tree/main/3_marketplace) - List and trade NFTs with activity stats - via Turbin3<br>
-<img width="100%" alt="AMM on Solana" src="https://github.com/user-attachments/assets/71fef649-cc88-4d84-bee6-7ddc97489967" />
-<br><br>
+<img width="100%" alt="NFT Marketplace on Solana" src="https://github.com/user-attachments/assets/71fef649-cc88-4d84-bee6-7ddc97489967" />
+<br><br><br><br>
 [AMM on Solana](https://github.com/solana-turbin3/Q3_25_Builder_MarcoBagni/tree/main/2_amm) - Provide liquidity and receive LP tokens - via Turbin3<br>
 <img width="100%" alt="AMM on Solana" src="https://github.com/user-attachments/assets/aeb8a7af-aca2-4c97-8abe-b9dc4d21dd07" />
-
-<br><br>
+<br><br><br><br>
 [Rock Paper Scissors](https://github.com/lostconversation/sol-ropasci) - A great use case for onchain fun<br>
 <img width="100%" alt="Rock Paper Scissors" src="https://github.com/user-attachments/assets/a1861d30-6d62-48ae-939b-fe537934c50b" />
 
 <br><br>
-... more coming soon ...
 <br>
 <br>
 <br>
