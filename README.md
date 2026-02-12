@@ -187,7 +187,7 @@ This is a collection of 2d prototypes that respond to mouse interactions, built 
 
 ### 01. // Lostconversation.com 3d interactive logo
 
-[![Lostconversation.com](https://www.lostconversation.com/wp-content/uploads/2018/01/lost_logo.jpg)](https://www.lostconversation.com/web/lost "'cmd+click' me")
+[![Lostconversation.com](https://www.lostconversation.com/wp/wp-content/uploads/2018/01/lost_logo.jpg)](https://www.lostconversation.com/web/lost "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Three.js-informational?style=flat&logo=three.js&logoColor=black&color=acf499)](#)
