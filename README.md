@@ -87,7 +87,7 @@ Coded in Three.js, HTML5 and CSS. [Check it live](https://www.lostconversation.c
 <br/>
 
 ### 09. // Mandala
-[![Mandala](https://www.lostconversation.com/wp-content/uploads/2018/12/Mandala_web_3.png)](https://www.lostconversation.com/mandala "'cmd+click' me")
+[![Mandala](https://www.lostconversation.com/wp/wp-content/uploads/2018/12/Mandala_web_3.png)](https://www.lostconversation.com/mandala "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Three.js-informational?style=flat&logo=three.js&logoColor=black&color=acf499)](#)
@@ -102,7 +102,7 @@ Connecting mathematics, social sciences and consciousness studies, this game let
 <br/>
 
 ### 08. // Mosaico Stellare
-[![Mosaico](https://www.lostconversation.com/wp-content/uploads/2018/01/Cassini_Cover.jpg)](https://worthknowing.org/mosaico "'cmd+click' me")
+[![Mosaico](https://www.lostconversation.com/wp/wp-content/uploads/2018/01/Cassini_Cover.jpg)](https://worthknowing.org/mosaico "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Three.js-informational?style=flat&logo=three.js&logoColor=black&color=acf499)](#)
@@ -113,7 +113,7 @@ It also features a colorful stop-motion like animation. [Check it live](https://
 <br/>
 
 ### 07. // Finding Knowing Delight
-[![Finding Knowing Delight](https://www.lostconversation.com/wp-content/uploads/2018/01/sarco.jpg)](https://lostconversation.com/web/sarco "'cmd+click' me")
+[![Finding Knowing Delight](https://www.lostconversation.com/wp/wp-content/uploads/2018/01/sarco.jpg)](https://lostconversation.com/web/sarco "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Three.js-informational?style=flat&logo=three.js&logoColor=black&color=acf499)](#)
@@ -124,7 +124,7 @@ The full project consists of: album cover, animated trailer, and interactive web
 <br/>
 
 ### 06. // Graphic Man
-[![Graphic Man](https://www.lostconversation.com/wp-content/uploads/2018/12/Builder_Frame_01.jpg)](https://lostconversation.com/web/graphicman "'cmd+click' me")
+[![Graphic Man](https://www.lostconversation.com/wp/wp-content/uploads/2018/12/Builder_Frame_01.jpg)](https://lostconversation.com/web/graphicman "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Three.js-informational?style=flat&logo=three.js&logoColor=black&color=acf499)](#)
@@ -137,7 +137,7 @@ This builder can be applied to any 3d model. [Check it live](https://lostconvers
 
 
 ### 05. // Unfolding the planet
-[![Hi Knowledge](https://www.lostconversation.com/wp-content/uploads/2015/10/Unfolding_17.jpg)](https://unfoldingtheplanet.tumblr.com/ "'cmd+click' me")
+[![Hi Knowledge](https://www.lostconversation.com/wp/wp-content/uploads/2015/10/Unfolding_17.jpg)](https://unfoldingtheplanet.tumblr.com/ "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-After_Effects-informational?style=flat&logo=none&logoColor=black&color=ff94f6)](#)
@@ -150,7 +150,7 @@ A new look at the World, Cartography and Map Projections.
 <br/>
 
 ### 04. // Hi Knowledge
-[![Hi Knowledge](https://www.lostconversation.com/wp-content/uploads/2017/11/Hi-k_B.jpg)](https://hi-knowledge.org/invasion-biology "'cmd+click' me")
+[![Hi Knowledge](https://www.lostconversation.com/wp/wp-content/uploads/2017/11/Hi-k_B.jpg)](https://hi-knowledge.org/invasion-biology "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-D3.js-informational?style=flat&logo=d3.js&logoColor=black&color=95ffe2)](#)
@@ -164,7 +164,7 @@ Other visualizations [here](https://hi-knowledge.org/#visualisation-tools)
 <br/>
 
 ### 03. // New Berliners Names
-[![New Berliners](https://www.lostconversation.com/wp-content/uploads/2018/01/berliners.jpg)](#)
+[![New Berliners](https://www.lostconversation.com/wp/wp-content/uploads/2018/01/berliners.jpg)](#)
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-D3.js-informational?style=flat&logo=d3.js&logoColor=black&color=95ffe2)](#)
@@ -176,7 +176,7 @@ Idea and Development: Marco Bagni + Max Zimmermann
 <br/>
 
 ### 02. // WebGL interactive canvas
-[![Lostconversation.com](https://www.lostconversation.com/wp-content/uploads/2019/01/Cables_Web2d.jpg)](https://www.lostconversation.com/web/shaders "'cmd+click' me")
+[![Lostconversation.com](https://www.lostconversation.com/wp/wp-content/uploads/2019/01/Cables_Web2d.jpg)](https://www.lostconversation.com/web/shaders "'cmd+click' me")
 
 [![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=black&color=fcffb1)](#)
 [![](https://img.shields.io/badge/-Cables.gl-informational?style=flat&logo=cables&logoColor=black&color=ffce95)](#)
